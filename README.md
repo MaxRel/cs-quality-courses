@@ -14,8 +14,6 @@
 
 Amazon 李沐大神出的[《动手学深度学习》](https://link.zhihu.com/?target=https%3A//discuss.gluon.ai/t/topic/753)
 
-aa
-
 台湾大学林轩田教授 [《机器学习基石上》](https://link.zhihu.com/?target=https%3A//www.coursera.org/learn/ntumlone-mathematicalfoundations)， [《机器学习基石下》](https://link.zhihu.com/?target=https%3A//www.coursera.org/learn/ntumlone-algorithmicfoundations)
 
 台湾大学[《Applied Deep Learning/Machine Learning and Having It Deep and Structured》](https://link.zhihu.com/?target=https%3A//www.csie.ntu.edu.tw/~yvchen/f106-adl/syllabus.html)
